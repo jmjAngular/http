@@ -1,0 +1,150 @@
+{
+  "ZyBIn": {
+    "layout": "layout-01",
+    "title": "Photography",
+    "heading": "Bodo Rickassel",
+    "img": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_4_f.jpeg",
+      "width": "1080",
+      "height": "713",
+      "cropW": "763",
+      "cropH": "504",
+      "cropX": "0",
+      "cropY": "3"
+    }
+  },
+  "FBiin": {
+    "layout": "layout-02",
+    "title": "Photography",
+    "heading": "",
+    "img": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/295/Bodo_Rickassel-10-0-0-re-028.jpg",
+      "width": "1080",
+      "height": "713",
+      "cropW": "763",
+      "cropH": "504",
+      "cropX": "0",
+      "cropY": "0"
+    }
+  },
+  "KBGbl": {
+    "layout": "layout-03",
+    "title": "Photography",
+    "heading": "",
+    "img": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_1_f.JPG",
+      "width": "478",
+      "height": "719",
+      "cropW": "338",
+      "cropH": "508",
+      "cropX": "426",
+      "cropY": "0"
+    }
+  },
+  "fUYnf": {
+    "layout": "layout-04",
+    "title": "Photography",
+    "heading": "",
+    "imgLeft": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_4_f.jpeg",
+      "width": "478",
+      "height": "719",
+      "cropW": "338",
+      "cropH": "508",
+      "cropX": "332",
+      "cropY": "0"
+    },
+    "imgRight": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_6_f.jpeg",
+      "width": "478",
+      "height": "719",
+      "cropW": "338",
+      "cropH": "508",
+      "cropX": "214",
+      "cropY": "0"
+    }
+  },
+  "QaGdq": {
+    "layout": "layout-05",
+    "title": "Photography",
+    "heading": "",
+    "imgLeft": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_4_f.jpeg",
+      "width": "1080",
+      "height": "713",
+      "cropW": "763",
+      "cropH": "504",
+      "cropX": "0",
+      "cropY": "3"
+    },
+    "imgRight": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_5_f.JPG",
+      "width": "1080",
+      "height": "713",
+      "cropW": "763",
+      "cropH": "504",
+      "cropX": "0",
+      "cropY": "3"
+    }
+  },
+  "YZzWh": {
+    "layout": "layout-06",
+    "title": "Photography",
+    "heading": "",
+    "imgLeft": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_1_f.JPG",
+      "width": "478",
+      "height": "690",
+      "cropW": "352",
+      "cropH": "508",
+      "cropX": "384",
+      "cropY": "0"
+    },
+    "imgRightFirst": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_4_f.jpeg",
+      "width": "1080",
+      "height": "713",
+      "cropW": "763",
+      "cropH": "504",
+      "cropX": "0",
+      "cropY": "3"
+    },
+    "imgRightSecond": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_6_f.jpeg",
+      "width": "1080",
+      "height": "713",
+      "cropW": "763",
+      "cropH": "504",
+      "cropX": "0",
+      "cropY": "3"
+    }
+  },
+  "TkPbp": {
+    "layout": "layout-07",
+    "title": "Photography   ",
+    "heading": "",
+    "imgLeft": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/295/Bodo_Rickassel-10-0-0-re-029.jpg",
+      "width": "478",
+      "height": "690",
+      "cropW": "393",
+      "cropH": "567",
+      "cropX": "328",
+      "cropY": "0"
+    },
+    "imgRight": {
+      "src": "/wp-content/uploads/pdf-maker/images/artists/44/29/Bodo_Rickassel_5_f.JPG",
+      "width": "1080",
+      "height": "713",
+      "cropW": "763",
+      "cropH": "504",
+      "cropX": "0",
+      "cropY": "3"
+    }
+  },
+  "Lpkvk": {
+    "layout": "undefined",
+    "title": "",
+    "heading": ""
+  }
+}

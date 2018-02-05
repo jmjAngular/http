@@ -1,6 +1,9 @@
 import {Component, OnInit} from '@angular/core';
 import {HEROES} from './mock-heroes';
 import {Hero} from './hero';
+import {catchError, map, tap} from 'rxjs/operators';
+
+import {HttpClient, HttpHeaders} from '@angular/common/http';
 
 @Component({
     selector: 'app-heroes',
@@ -9,7 +12,7 @@ import {Hero} from './hero';
 })
 export class HeroesComponent implements OnInit {
 
-    heroes = HEROES;
+    // heroes = HEROES;
     // hero: Hero = {
     //     id: 1,
     //     name: 'Windstorm'
@@ -19,11 +22,21 @@ export class HeroesComponent implements OnInit {
     // onSelect(heroClicked: Hero): void {
     //     this.selectedHero = heroClicked;
     // }
-
-    constructor() {
+    private heroesUrl = 'http://127.0.0.1/jo/heros.json';  // URL to web api
+    constructor(private http: HttpClient) {
     }
 
     ngOnInit() {
+        this.getHeros();
     }
 
+    getHeros() {
+        var heros = this.http.get<Hero[]>(this.heroesUrl)
+            .pipe(
+                catchError(this.handleError('getHeroes', []))
+            );
+        console.log(heros);
+        // return true;
+
+    }
 }
