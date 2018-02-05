@@ -8,5 +8,5 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
   3. npm install
   4. ng serve --open
 
-####Enjoy
+## Enjoy...
 JMJ
